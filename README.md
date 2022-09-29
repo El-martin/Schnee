@@ -1,2 +1,3 @@
-# SnowDetection
-Deecting the presence of snow on images 
+# Schnee
+Detecting the presence of snow on satellite images from Google Earth
+using Convolutional Neural Networks
